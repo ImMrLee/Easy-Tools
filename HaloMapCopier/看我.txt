@@ -1,4 +1,11 @@
-如果你看不懂英文，喊我，我用其他方式做这个工具，因为VS 2022突然不支持UTF-8，使用中文内容就崩
+现已支持中文！（才几个小时而已，我为什么那么着急）
+后面带UTF8的是中文版
 使用方式是，把你要复制的地图文件放在同一文件夹里，打开程序，输入地图文件名（要完整名称），第二步输入你安装光环游戏的盘符（安装到C盘就输入C），第三步输入目标光环游戏代数（输入1、2、3或者4），完成 :DDDDDD
+（主要备份，我下次会添加一些功能让其使用更方便）
 这玩意花了我40分钟试错了20多次才完成的，此项目完全开源，访问：https://github.com/ImMrLee/Easy-Tools
 作者：B站-MisteLee
+
+更新日志：
+a0.11 First Release / 发布第一个版本(2023.02.25)
+a0.12: Fixed the bug of halo 2 copy and added the notifcation of wrong gen of halo / 修复了复制到光环2时崩溃，添加了选择错误代数时的提示(2023.02.25)
+a0.13（Current）：Now Supports Chinese Language / 现已支持中文（2023.02.25）
